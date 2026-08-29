@@ -1,92 +1,89 @@
-<h1 align="left">Hi, I'm Yogita Khanna 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Yogita%20Khanna&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20AI%20Software%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+</p>
 
-**Backend & AI Software Engineer** building event-driven microservices with **NestJS, PostgreSQL, Redis, RabbitMQ & AWS** — for platforms serving 1,000+ users.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=764ABA&center=true&vCenter=true&width=600&lines=Building+event-driven+microservices+with+NestJS;Designing+multi-agent+AI+systems;Node.js+Developer+%40+GKM+IT+Pvt+Ltd" alt="Typing SVG" />
+</p>
 
-Currently: Node.js Developer @ GKM IT Pvt Ltd  
-Previously: MERN Stack Intern @ Softapper  
+<p align="center">
+  <a href="mailto:khannayogita723@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yogita-khanna-b5029222a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://portfolio-58wq.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
-🔗 **Portfolio:** [portfolio-58wq.vercel.app](https://portfolio-58wq.vercel.app/)  
-📫 **Open to full-time roles & freelance work**  
+<p align="center">
+  Node.js Developer @ <b>GKM IT Pvt Ltd</b> · Previously MERN Stack Intern @ Softapper
+  <br/>
+  Building production backends and AI agent systems — RAG pipelines, multi-agent orchestration, LLM APIs.
+</p>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</p>
 
-**Backend:** Node.js · NestJS · Express  
-**Databases:** PostgreSQL · Redis  
-**Messaging/Infra:** RabbitMQ · AWS (EC2/RDS/ECR)  
-**Languages:** JavaScript · TypeScript  
-**AI/LLM:** OpenAI API · Google Gemini API · Anthropic Claude API · Vector embeddings / similarity search  
-**Frontend:** Next.js · React  
-**Other:** Docker · Socket.io / WebSockets · Playwright  
+<br/>
 
----
+<h3 align="center">🚀 Flagship Projects</h3>
 
-### 🚀 Flagship Products Deployed & Live
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h4>💬 Softsaid</h4>
+      Social discovery & micro-journaling platform — AI feeds, quote cards, Chrome extension.
+      <br/><br/>
+      <a href="https://quotes-dev.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000?style=flat-square&logo=vercel"/></a>
+    </td>
+    <td width="50%">
+      <h4>🤖 Orbi</h4>
+      Multi-agent AI business OS — website crawling, automated outreach, CRM & invoicing.
+      <br/><br/>
+      <a href="https://orbi-aa7vhtuyw-yogita-khannas-projects.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000?style=flat-square&logo=vercel"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🎯 CareerOS AI</h4>
+      AI career copilot — resume parsing, ATS scoring, tailored resume generation.
+      <br/><br/>
+      <a href="https://career-os-ai-app.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000?style=flat-square&logo=vercel"/></a>
+    </td>
+    <td width="50%">
+      <h4>⚡ CareerOps</h4>
+      Automated job pipeline engine — portal scraping, ATS detection, auto-tailored applications.
+      <br/><br/>
+      <a href="https://career-ops-hq.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000?style=flat-square&logo=vercel"/></a>
+    </td>
+  </tr>
+</table>
 
-| Project | What it does | Live Deployed Link | Tech Stack |
-| :--- | :--- | :---: | :--- |
-| **Softsaid (Quotes)** | **Social Discovery & Micro-Journaling Platform** — Full-stack platform live on AWS (EC2/RDS/ECR) featuring multi-identity profiles, AI personalized feeds, quote cards, and companion Chrome extension. | [🌐 Live App](https://quotes-dev.vercel.app) | `NestJS` `React` `PostgreSQL` `Redis` `Docker` `AWS` `Socket.io` |
-| **Orbi** | **Autonomous Multi-Agent AI Business OS** — Crawls a business's website to build a product knowledge graph, then runs automated Instagram/WhatsApp outreach, CRM pipeline management, and invoicing. | [🌐 Live App](https://orbi-aa7vhtuyw-yogita-khannas-projects.vercel.app/) | `Next.js` `React 19` `TypeScript` `Playwright` `PgVector` `Tailwind` |
-| **Career OS AI** | **Resume & ATS Intelligence Assistant** — Full-stack AI career copilot parsing candidate PDF resumes, calculating ATS similarity scores against target job descriptions, and synthesizing tailored resumes. | [🌐 Live App](https://career-os-ai-app.vercel.app/) | `React` `Next.js` `FastAPI` `LLM APIs` `ATS Scoring` `PDF Parser` |
-| **CareerOps** | **Automated Job Pipeline Engine** — Multi-agent CLI & web platform that scans job portals, detects ATS systems, calculates skill gaps, and auto-generates tailored LaTeX resumes/cover letters via Claude, Gemini & OpenAI. | [🌐 Live App](https://career-ops-hq.vercel.app) | `Node.js` `Go` `Playwright` `Next.js` `Clerk` `YAML Contracts` |
+<br/>
 
----
+<h3 align="center">📊 GitHub Activity</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogita-khanna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogita-khanna&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-### 🌟 Detailed Product Showcases
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yogita-khanna&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
-#### 1. 💬 [Softsaid / Quotes-Dev](https://quotes-dev.vercel.app)
-* **Live Deployed App**: [https://quotes-dev.vercel.app](https://quotes-dev.vercel.app)
-* **Description**: Secure social discovery platform live on AWS (EC2/RDS/ECR) featuring multi-identity profiles, private journaling, AI personalized feeds, zodiac insights, real-time social engagement, and a custom companion Chrome extension (`quotes-extension`).
-* **Highlights**:
-  - Containerized NestJS microservices deployed on AWS with Docker and Nginx reverse proxy layer.
-  - Redis pub/sub and session caching layer lowering PostgreSQL database read pressure by 60%.
-  - Automated GitHub Actions CI/CD pipeline deploying updates to AWS ECR and EC2.
+<p align="center"><i>✨ Open to full-time roles & freelance work ✨</i></p>
 
-#### 2. 🤖 [Orbi — Multi-Agent AI Business OS](https://orbi-aa7vhtuyw-yogita-khannas-projects.vercel.app/)
-* **Live Deployed App**: [https://orbi-aa7vhtuyw-yogita-khannas-projects.vercel.app/](https://orbi-aa7vhtuyw-yogita-khannas-projects.vercel.app/)
-* **Description**: Multi-tenant SaaS OS with NestJS microservices, BullMQ queues, Playwright web scraper, PgVector RAG knowledge base, Model Context Protocol (MCP), and dynamic visual marketing generator.
-* **Highlights**:
-  - Engineered multi-agent subagent delegation pattern using Model Context Protocol (MCP).
-  - Multi-tenant isolation layer in NestJS microservices with tenant schema scoping.
-  - Integrated Playwright web scraper & BullMQ queues for async web content ingestion into vector index.
-
-#### 3. 🎯 [Career OS AI — Resume & ATS Intelligence Assistant](https://career-os-ai-app.vercel.app/)
-* **Live Deployed App**: [https://career-os-ai-app.vercel.app/](https://career-os-ai-app.vercel.app/)
-* **Description**: Full-stack AI career copilot parsing candidate PDF resumes, calculating ATS similarity scores against target job descriptions, and synthesizing tailored resumes.
-* **Highlights**:
-  - Text parsing pipeline extracting candidate work history and key skill entities from uploaded PDFs.
-  - Vector semantic match algorithm scoring candidate skills against job requirements.
-  - Automated LaTeX/PDF exporter producing recruiter-ready formatted resume files.
-
-#### 4. ⚡ [CareerOps — Automated Job Pipeline Engine](https://career-ops-hq.vercel.app)
-* **Live Deployed App**: [https://career-ops-hq.vercel.app](https://career-ops-hq.vercel.app)
-* **Description**: Automated job application & pipeline tracking system featuring portal scrapers, CV sync verifiers, liveness checks, deduplication engine, and CLI batch operations.
-* **Highlights**:
-  - Declarative YAML contract definitions allowing seamless portal scraper additions.
-  - Duplicate detection and pipeline state persistence across runs.
-  - Automated CV version sync verifier validating local resume assets against live profile links.
-
----
-
-### 🧪 26 AI Agent & Core Infrastructure Repositories
-
-Explore my open-source collection of AI Agent Architectures, RAG Systems, Multi-Agent Debates, and Distributed Backend Labs:
-
-- 🧠 **[Production Agent with Observability](https://github.com/yogita-khanna/production-agent-with-observability)** — Distributed tracing, metrics store, canary rollbacks.
-- 🔀 **[Multi-Tool Orchestrator Agent](https://github.com/yogita-khanna/multi-tool-orchestrator-agent)** — Capability routing, permission gates, parallel DAG execution.
-- 📚 **[RAG Agent with Citation Grounding](https://github.com/yogita-khanna/rag-agent-with-citation-grounding)** — Hybrid BM25+Vector search, reranking & citation verifier.
-- 🔄 **[ReAct Planning Agent](https://github.com/yogita-khanna/react-planning-agent)** — Bounded ReAct loop, loop guard & reflection repair.
-- 🗣️ **[Multi-Agent Debate System](https://github.com/yogita-khanna/multi-agent-debate-system)** — Multi-persona debate, consensus voting & convergence detector.
-- 🪞 **[Self-Reflective Agent with Auto-Eval](https://github.com/yogita-khanna/self-reflective-agent-with-auto-eval)** — Reflexion loop, best-so-far candidate tracking.
-- ⚙️ **[Structured Output Agent](https://github.com/yogita-khanna/structured-output-agent)** — Pydantic v2 schema validation & auto-repair retries.
-- ⚡ **[Cost-Aware Agent Router](https://github.com/yogita-khanna/cost-aware-agent-router)** — Complexity routing saving up to 76% token cost.
-
----
-
-### 📫 Reach Me
-
-- **Portfolio:** [portfolio-58wq.vercel.app](https://portfolio-58wq.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/yogita-khanna-b5029222a](https://linkedin.com/in/yogita-khanna-b5029222a)
-- **Email:** [khannayogita723@gmail.com](mailto:khannayogita723@gmail.com)
-- **GitHub:** [github.com/yogita-khanna](https://github.com/yogita-khanna)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
+</p>
