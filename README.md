@@ -72,17 +72,17 @@
 
 <br/>
 
-<h3 align="center">📊 GitHub Activity</h3>
+<h3 align="center">⚡ Engineering & Open-Source Repositories</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogita-khanna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=yogita-khanna&theme=tokyonight&hide_border=true" height="165"/>
+  <a href="https://github.com/yogita-khanna?tab=repositories">
+    <img src="https://img.shields.io/badge/AI_Agent_Architectures-31_Repositories-764ABA?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Specialization-Backend_%26_AI_Systems-667eea?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yogita-khanna&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<br/>
 
-<p align="center"><i>✨ Open to full-time roles & freelance work ✨</i></p>
+<p align="center"><i>✨ Open for Full-Time Backend & AI Software Engineer Roles ✨</i></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
