@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=764ABA&center=true&vCenter=true&width=600&lines=Building+event-driven+microservices+with+NestJS;Designing+multi-agent+AI+systems;Node.js+Developer+%40+GKM+IT+Pvt+Ltd" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=764ABA&center=true&vCenter=true&width=600&lines=Building+event-driven+microservices+with+NestJS;Node.js+Developer+%40+GKM+IT+Pvt+Ltd;Exploring+AI%2FLLM+integrations" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  Node.js Developer @ <b>GKM IT Pvt Ltd</b> · Previously MERN Stack Intern @ Softapper
+  Node.js Developer @ <b>GKM IT Pvt Ltd</b>
   <br/>
-  Building production backends and AI agent systems — RAG pipelines, multi-agent orchestration, LLM APIs.
+  Building production backends with NestJS, PostgreSQL & AWS — currently exploring AI/LLM integrations.
 </p>
 
 <br/>
